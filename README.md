@@ -1,1 +1,1 @@
-# TCC-Curso-T-cnico
+# TCC Curso Técnico
