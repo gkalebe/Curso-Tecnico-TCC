@@ -1,7 +1,11 @@
 # TCC Curso Técnico
 
 
-<h2>
+#Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/111439330?v=4" width=115><br><sub>Caroline Assunção de Sousa</sub>](https://github.com/eucarolinesousa) |  [<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) |  
+
+<h4>
 
 Projeto de Conclusão de Curso: Loja Virtual
 
@@ -26,4 +30,4 @@ Desenvolver habilidades práticas na criação de aplicações web utilizando te
 Compreender os princípios do desenvolvimento de lojas virtuais e e-commerce.
 Ganhar experiência na integração de diferentes tecnologias para criar uma aplicação web funcional.
   
-</h2>
+</h4>
