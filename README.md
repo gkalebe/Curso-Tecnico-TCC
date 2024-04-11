@@ -3,7 +3,7 @@
 
 #Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/111439330?v=4" width=115><br><sub>Caroline Assunção de Sousa</sub>](https://github.com/eucarolinesousa) |  [<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) |  
+| [<img src="https://avatars.githubusercontent.com/u/129552845?v=4" width=115><br><sub>Caroline Assunção de Sousa</sub>](https://github.com/eucarolinesousa) |<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) |  
 
 <h4>
 
