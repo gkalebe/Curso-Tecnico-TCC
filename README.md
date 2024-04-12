@@ -1,9 +1,9 @@
 # TCC Curso Técnico
 
 
-#Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/129552845?v=4" width=115><br><sub>Caroline Assunção de Sousa</sub>](https://github.com/eucarolinesousa) <br>|<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>]<br>(https://github.com/gkalebe) |  
+### Autores<br><br>
+ [<img src="https://avatars.githubusercontent.com/u/129552845?v=4" width=115><br><sub>Caroline Assunção de Sousa</sub>](https://github.com/eucarolinesousa)  
+ <br> [<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe dos Santos Sousa</sub>](https://github.com/gkalebe)   
 
 <h4>
 
